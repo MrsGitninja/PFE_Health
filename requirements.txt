@@ -1,2 +1,8 @@
 streamlit
 pandas
+joblib 
+nltk 
+langdetect
+sicikit-learn
+translate
+deep_translator
